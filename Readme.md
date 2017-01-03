@@ -1,4 +1,5 @@
-# The Drunkard Game (my test game for interview)
+# The Drunkard Game
+My test game for interview
 
 # Description:
 	- Turn based game
