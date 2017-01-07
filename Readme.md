@@ -15,7 +15,7 @@
 	4. SPACE - pause
 
 ## Screenshots:
-<img src="https://cloud.githubusercontent.com/assets/15640326/21742304/e4db9f4a-d4fc-11e6-9299-38c14d31aa89.png" width="403" height="478">
-<img src="https://cloud.githubusercontent.com/assets/15640326/21742310/02d4911e-d4fd-11e6-92d8-3a73e3966998.png" width="403" height="478">
+<img src="https://cloud.githubusercontent.com/assets/15640326/21742304/e4db9f4a-d4fc-11e6-9299-38c14d31aa89.png" width="450" height="533">
+<img src="https://cloud.githubusercontent.com/assets/15640326/21742310/02d4911e-d4fd-11e6-92d8-3a73e3966998.png" width="450" height="533">
 
 Created by FatherOctber. 2015
